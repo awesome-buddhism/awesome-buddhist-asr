@@ -29,8 +29,13 @@ None
 ## Datasets
 
 <!-- Mention any datasets that are particularly useful for training OCR models on Buddhist texts. -->
-- 
-
+- Audio Books - 
+- Audio Book - 130.82 hr
+- Natural Speech - 191.96 hr
+- Podcast - 21.94	hr
+- Tibetan Teaching - 284.75	hr
+- News - 34	hr	
+								
 ## Research Papers
 
 <!-- Reference research papers that focus on OCR technology as it applies to Buddhist texts or similar scripts. -->
